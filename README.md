@@ -18,7 +18,7 @@ GitHub is an ideal platform for releasing geodata to the public because it:
 
 Here's a somewhat crude diagram of how it will work:
 
-![Data Flow Diagram](https://github.com/CityOfPhiladelphia/github-for-geodata/blob/master/images/dataflow.jpeg)
+![Data Flow Diagram](https://raw2.github.com/CityOfPhiladelphia/github-for-geodata/master/images/dataflow.jpegjpg "Data Flow Diagram")
 
 City staff will export data from GeoDb2 using [ArcOpen](https://github.com/CityOfPhiladelphia/arc-open) and then use [GitHub for Windows](http://windows.github.com/) to upload it to the GitHub.com remote repo for their department. The open data portals [PASDA](http://www.pasda.psu.edu/) and [OpenDataPhilly](http://opendataphilly.org/) so that the public can download the data from either or GitHub itself and always have the most up-to-date data.
 
