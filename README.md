@@ -30,7 +30,7 @@ This repo contains various Markdown pages of information regarding the City of P
 
 This repository will act as a living document that can be edited and added to as needed. If you would like to see something changed, make the changes and [send a pull request](https://help.github.com/articles/using-pull-requests)!  
 
-Additionally, the [the issues tab](https://github.com/CityOfPhiladelphia/github-for-geodata/issues) is a good place for discussions regarding this plan.
+Additionally, [the issues tab](https://github.com/CityOfPhiladelphia/github-for-geodata/issues) is a good place for discussions regarding this plan.
 
 
 
