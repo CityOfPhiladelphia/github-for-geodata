@@ -1,5 +1,6 @@
 There are many resources for learning Git, GitHub and Markdown. Some of the most notable are:
 
+* [GitHub Guides](http://guides.github.com/)
 * [Pro Git book (free)](http://git-scm.com/book)
 * [Git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [Git Reference](http://gitref.org/index.html)

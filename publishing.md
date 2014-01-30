@@ -1,6 +1,6 @@
 # Publishing Geodata to GitHub
 
-This page will detail a workflow for City staff to publishing geodata to GitHub. If this is your first time using this workflow, read the [Getting Started](https://github.com/CityOfPhiladelphia/github-for-geodata/blob/master/getting_started.md) page first.
+This page will detail a workflow for City staff to publishing geodata to GitHub. If this is your first time using this workflow, read the [Getting Started](https://github.com/CityOfPhiladelphia/github-for-geodata/blob/master/getting_started.md) page first. For help on getting started with GitHub, consult the [Guides](http://guides.github.com).
 
 1. Load the dataset that you want to export into either ArcGIS Desktop or ArcGIS Catalog from GeoDb2 or another source
 2. Export the data using ArcOpen [(full instructions)](https://github.com/CityOfPhiladelphia/arc-open/blob/master/README.md) and confirm that the files look how you want them to be (see "Testing" below)
