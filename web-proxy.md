@@ -1,6 +1,6 @@
 Web Proxy
 =========
----- 
+
 If you're getting an error telling you to check your internet connection, you probably need to set your web proxy for Git. Here's how you do it:
 
 1.  Find your .gitconfig file, which should be in `C:\Users\your.username\.gitconfig`
